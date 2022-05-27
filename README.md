@@ -1,6 +1,6 @@
 # Twex
 
-**TODO: Add description**
+Twitter API client for Elixir using pure `:httpc` Erlang module.
 
 ## Installation
 
